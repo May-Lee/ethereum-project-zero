@@ -1,2 +1,2 @@
 # Ethereum Project Zero
-A place to collect learning for Solidity, Ethereum and Blockchain
+A place to collect learnings for Solidity, Ethereum and Blockchain
