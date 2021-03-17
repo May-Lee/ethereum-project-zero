@@ -61,3 +61,10 @@
 
 ## What are smart contracts?
 * What are some important points to remember?
+* What is the `pragma` statement and why is it important?
+* What is the constructor function?
+    * What are some common patterns?
+* What are common functions?
+    * Pair each function with a common pattern and an explanation of the use of
+    that pattern.
+* What is the difference between storage and local variables and how they are used? 
